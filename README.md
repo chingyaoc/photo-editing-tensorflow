@@ -13,6 +13,12 @@ Photo retouching is a time-consuming and challenging task that requires advanced
 
 ## Usage
 
+We need two pools of images.
+Our model will learn to edit photo from source pool to make it looks like the one in target pool.
+
+```
+pyhton main.py --source_path <path to source image> --target_path <path to target image> 
+```
 
 
 ## Method
