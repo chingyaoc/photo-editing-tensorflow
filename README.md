@@ -45,11 +45,12 @@ where ```R``` is the reward for a photo. Note that the reward is from the discri
 
 A benefit of using the discriminator ```D``` as a reward function is that it can be dynamically updated to further improve the generative model iteratively. It also serve as perceptual reward which means that we can grab training data from photos in the wild.
 
-## Photo Optimizing
+## Application
+### Photo Optimizing
+<img src="assets/fig2.png" width="600">
 
 
 
+### Style Learning
 
-## Style Learning
-
-
+<img src="assets/fig3.png" width="600">
