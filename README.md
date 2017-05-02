@@ -53,4 +53,4 @@ A benefit of using the discriminator ```D``` as a reward function is that it can
 
 ### Style Learning
 
-<img src="assets/fig3.png" width="600">
+<img src="assets/fig3.png" width="400">
