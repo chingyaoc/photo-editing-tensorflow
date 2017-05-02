@@ -1,6 +1,5 @@
 import sys
-sys.path.append("/home/james847286/Work/CEDL/Curve")
-from filter_api import *
+from curve.filter_api import *
 import random
 from PIL import Image, ImageEnhance
 import numpy as np
