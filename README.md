@@ -54,3 +54,17 @@ A benefit of using the discriminator ```D``` as a reward function is that it can
 ### Style Learning
 
 <img src="assets/fig3.png" width="400">
+
+## Citing
+If you find this repository helpful please cite as 
+```
+@misc{Chuang2017,
+  author = {Ching-Yao Chuang},
+  title = {Human Level Photo Editing via Adversarial Training},
+  year = {2017},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/JamesChuanggg/photo-editing-tensorflow}},
+  commit = {4bceb19d88dcb6d97e2dbb1fe6e59f84df5865ff}
+}
+```
