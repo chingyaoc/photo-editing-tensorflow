@@ -3,8 +3,8 @@ import tensorflow as tf
 from utils import get_model_dir
 from networks.cnn import CNN
 from policy import Policy
-from environment import Light
-from data_loader import light_loader
+from environment import Curve
+from data_loader import data_loader
 
 flags = tf.app.flags
 # Training
