@@ -1,4 +1,4 @@
-# Human Level Photo Editing via Adversarial Training
+# Photo Optimizing Adversarial Net with Policy Gradient Method
 
 Photo retouching is a time-consuming and challenging task that requires advanced skills beyond the abilities of casual photographers. This project aims to construct an agent which learns to edit photo in human-like fashion. Recently, theres has been lots of tasks enhance their robustness and performance via adversarial learning. We borrow the concept of **adversarial learning** into photo aesthetic improving task, and use the **policy gradient** to optimize the policy network whose action space is **human-like**.
 
@@ -60,7 +60,7 @@ If you find this repository helpful please cite as
 ```
 @misc{Chuang2017,
   author = {Ching-Yao Chuang},
-  title = {Human Level Photo Editing via Adversarial Training},
+  title = {Photo Optimizing Adversarial Net with Policy Gradient Method},
   year = {2017},
   publisher = {GitHub},
   journal = {GitHub repository},
